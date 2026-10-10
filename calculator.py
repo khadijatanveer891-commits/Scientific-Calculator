@@ -42,7 +42,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.markdown("<h2 style='text-align:center; color:#c5c8ff;'>✨ Modern Scientific Calculator</h2><p style='text-align:center; color:#888;'>Dark • Glassmorphism • Scientific</p>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align:center; color:#c5c8ff;'> Khadija </h2><p style='text-align:center;", unsafe_allow_html=True)
 
 if 'expr' not in st.session_state: st.session_state.expr = ""
 
